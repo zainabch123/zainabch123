@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zainab</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
-- 🔭 I’m currently working on my [Travel Planner App](https://github.com/zainabch123/travel-planner-app)
+- 🔭 I’m currently working on my [Skincare E-Commerce App](https://github.com/zainabch123/nextjs-skincare-ecommerce-app)
 
-- 🌱 I’m currently learning **Python and TypeScript**
+- 🌱 I’m currently learning **NextJS and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://zainabch.vercel.app/](https://zainabch.vercel.app/)
 
